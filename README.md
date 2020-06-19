@@ -7,3 +7,7 @@ Por questões de melhor experiência para todos os participantes, caso o usuári
 
 Considerando que muitos idosos tem se sentido muito sozinhos durante esse período, pensamos que além das interações virtuais com outros usuários, seria acolhedor possuir algo físico para fazer companhia a pessoa. Então criamos o Fred, um robozinho que possui dois olhinhos emotivos que acompanham todo o processo da atividade que o usuário estiver fazendo. Ele interage de acordo com a etapa ou processo que a pessoa esteja realizando no momento. Por exemplo, ao iniciar a atividade ele fica com uma expressão animada, enquanto a pessoa está realizando a etapa ele fica neutro como se estivesse esperando pacientemente para que a pessoa passe para a próxima fase, quando isso acontece ele volta a ficar animado, mostrando interesse na atividade da pessoa. Muitas emoções podem ser reproduzidas por ele e a pessoa pode se sentir melhor por interagir com ele.
 Contudo, temos um sistema de monitoramento que verifica se o usuário está ativo na aplicação, pois se a pessoa exceder do tempo limite sem interagir com o app, algo pode ter acontecido e não temos como prever, então o app exibe uma tela para confirmação de atividade e o Fred faz uma expressão de alerta e seus olhos viram dois sinais de exclamações, avisando a pessoa sobre sua inatividade.
+
+
+confira o projeto em :
+https://www.tinkercad.com/things/99ziWQNEAU2-copy-of-bodacious-lappi/editel?sharecode=P57Gq4WrkOmG-WbZq7zICt6GAqNKpUoBEARrRZO-Rzw
