@@ -1,4 +1,4 @@
-# fred-expression-matrix
+# Fred expression matrix
 
 Em meio a pandemia, buscamos a saúde e proteção de todos, contudo o distanciamento gerou grandes problemas sociais e de entretenimento para pessoas que moram sozinhas e/ou não tem acesso a meios de comunicação. Devido a isso, percebemos a grande solidão entre as pessoas mais idosas, que têm sofrido por estarem afastadas de suas famílias e sem poderem sair de suas casas por conta do risco à saúde. Pensando neste problema nasceu o Stay Active, um aplicativo interativo onde o usuário pode realizar atividades que o entretenham, estimulem sua criatividade, mantenha-o ativo e ainda permite a interação com outras pessoas, sendo possível realizar tais atividades em grupos, para aqueles mais sociáveis.
 Ao se cadastrar no aplicativo, o usuário tem acesso a uma lista de categorias que contém atividades simples, que podem ser realizadas individualmente ou em grupo. Algumas envolvem o cotidiano (por exemplo receitas), outras envolvem a parte artística e há também jogos voltados para a maior idade. Cada uma delas conta com o passo a passo detalhado para chegar à sua conclusão, contendo imagens grandes e explicativas, acompanhadas de uma breve descrição para auxiliar. Ao término da atividade escolhida, o usuário tem a possibilidade de compartilhar o resultado no feed relacionado àquela atividade, para que novos usuários vejam e criem interesse.
@@ -11,3 +11,10 @@ Contudo, temos um sistema de monitoramento que verifica se o usuário está ativ
 
 confira o projeto em :
 https://www.tinkercad.com/things/99ziWQNEAU2-copy-of-bodacious-lappi/editel?sharecode=P57Gq4WrkOmG-WbZq7zICt6GAqNKpUoBEARrRZO-Rzw
+
+
+Autores
+rm82273 Cyntia Sayuri de Almeida
+rm83825 Fernando de Oliveira Laurino
+rm82443 Michael Andrews Contrera Liu
+rm83690 Vanessa Amaral Marques
